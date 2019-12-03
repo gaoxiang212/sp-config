@@ -11,7 +11,7 @@ eureka:
   #routes:
   #  item-service: /item-service/**
    # user-service: /user-service/**
-    #order-service: /order-service/**
+      #order-service: /order-service/**
 zuul:
   retryable: true
 ribbon:
